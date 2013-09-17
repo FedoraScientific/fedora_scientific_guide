@@ -10,6 +10,7 @@ Chapter 2: Support for scientific computing in other Linux distributions – Deb
 Part – II: Generic tools and libraries
 
 Chapter 3: Numerical Computing tools
+
 3.1 GNU Octave
 
 3.2 Scilab
