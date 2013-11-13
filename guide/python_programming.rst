@@ -1,5 +1,5 @@
-Python programming
-------------------
+Python libraries and related software
+-------------------------------------
 
 SciPy
 =====
@@ -12,6 +12,9 @@ IPython
 
 Plotting
 ========
+
+Sage
+====
 
 Parallel and Distributed Computing
 ==================================

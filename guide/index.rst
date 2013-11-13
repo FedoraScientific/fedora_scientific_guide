@@ -3,8 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Fedora Scientific Guide's documentation!
-===================================================
+Welcome to the Fedora Scientific Guide
+======================================
+
+These pages aim to help you learn more about using the software
+shipped with Fedora Scientific. These documentation should be only
+considered applicable for Fedora 20 and may not work exactly as
+mentioned on other Fedora releases.
 
 Contents:
 
@@ -26,8 +31,5 @@ Contents:
 
 Indices and tables
 ==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
