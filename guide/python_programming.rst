@@ -30,11 +30,37 @@ The user mailing list is `here
 IPython
 =======
 
+IPython is an enhanced interactive shell with various features to
+support rapid interactive computing. The IPython Notebook is a browser
+based environment which allows you to create rich JSON based documents
+embedding rich text, numerical calculations and inline graphs. See the
+IPython `homepage <http://ipython.org/>`__ to learn more. 
+
+The official documentation is `here
+<http://ipython.org/documentation.html>`__. There are also a number of
+`talks and presentations <http://ipython.org/presentation.html>`__ and
+`videos and screencasts <http://ipython.org/videos.html#videos>`__. 
+
+The IPython mailing list is `here
+<http://mail.scipy.org/pipermail/ipython-dev/>`__.
+
 Plotting
 ========
 
+Matplotlib is the most feature-rich Python library for creating
+publication ready graphs and figures.
+
+The official documentation is `here
+<http://matplotlib.org/contents.html>`__ and the `example gallery
+<http://matplotlib.org/examples/index.html>`__ has a large number of
+examples of creating plots of all kinds using matplotlib.
+
 Parallel and Distributed Computing
 ==================================
+
+
+Other libraries
+===============
 
 Sage
 ====
