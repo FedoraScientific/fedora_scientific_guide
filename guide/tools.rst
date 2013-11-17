@@ -18,10 +18,10 @@ also available. Other ways to get help are mentioned `here
 Scilab
 ======
 
-*Scilab* combines a high level programming language and a numerical
- computing environment. If you have prior experience with MATLAB and
- are looking for something similar, `Scilab <http://help.scilab.org/docs/5.4.1/fr_FR/section_36184e52ee88ad558380be4e92d3de21.html>`__
- is worth looking into.
+Scilab combines a high level programming language and a numerical
+computing environment. If you have prior experience with MATLAB and 
+are looking for something similar, `Scilab
+<http://help.scilab.org/docs/5.4.1/fr_FR/section_36184e52ee88ad558380be4e92d3de21.html>`__ is worth looking into.
 
 Links to the official documentation and tutorials are available `here
 <http://www.scilab.org/resources/documentation>`__. Ways to engage
