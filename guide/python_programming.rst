@@ -58,6 +58,28 @@ examples of creating plots of all kinds using matplotlib.
 Parallel and Distributed Computing
 ==================================
 
+The Python standard library's multiprocessing module is useful for
+parallel programming. Fedora Scientific includes these additional
+libraries.
+
+The `MPI for Python <http://mpi4py.scipy.org/>`__ project provides
+Python bindings to the Message passing interface (MPI). The official
+documentation is `here
+<http://mpi4py.scipy.org/docs/usrman/index.html>`__ with the mailing
+list available `here <http://groups.google.com/group/mpi4py>`__. 
+
+`Parallel Python <http://www.parallelpython.com/>`__ is another
+alternative made available. The official documentation is linked from
+the homepage. The `examples
+<http://www.parallelpython.com/content/view/17/31/>`__ should help you
+get an idea of what the programs look like and the kind of things you
+may be able to do. The forum for seeking help is `here
+<http://www.parallelpython.com/component/option,com_smf/Itemid,29/>`__. 
+
+You can also use IPython for parallel computing, including using MPI with
+IPython. See the official documentation `here
+<http://ipython.org/ipython-doc/rel-1.1.0/parallel/index.html>`__.
+
 
 Other libraries
 ===============
