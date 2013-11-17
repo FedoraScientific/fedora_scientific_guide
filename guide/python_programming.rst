@@ -84,5 +84,10 @@ IPython. See the official documentation `here
 Other libraries
 ===============
 
+The `NetworkX library <http://networkx.github.io/>`__ allows you to play
+with complex networks. Simple use cases include learning and teaching graphs.
+The official documentation is `here <http://networkx.github.io/documentation.html>`__
+and the project's mailing list is `here <http://groups.google.com/group/networkx-discuss/>`__.
+
 Sage
 ====
