@@ -27,7 +27,10 @@ Contents:
    versioncontrol
    bibliographypdf
    
+Contributing and License:
 
+This guide uses the CC-BY-SA license. Contributing is easy. Use the edit link on the top right 
+of this page and send me a pull request. I look forward to your contributions!
 
 Indices and tables
 ==================
