@@ -91,3 +91,10 @@ and the project's mailing list is `here <http://groups.google.com/group/networkx
 
 Sage
 ====
+
+Sage provides an unified interface to "`100 open source packages <http://www.sagemath.org/tour.html>`__".
+The videos `here <http://www.sagemath.org/help-video.html>`__ may help you get an overview of what
+sage is and what it can do for you. The official documentation is `here <http://www.sagemath.org/help.html>`__
+and ways to get help are listed `here <http://www.sagemath.org/development.html#mailingList>`__. 
+
+
