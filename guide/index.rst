@@ -11,7 +11,8 @@ shipped with Fedora Scientific. These documentation should be only
 considered applicable for Fedora 20 and may not work exactly as
 mentioned on other Fedora releases.
 
-Contents:
+Contents
+========
 
 .. toctree::
    :maxdepth: 2
@@ -27,10 +28,12 @@ Contents:
    versioncontrol
    bibliographypdf
    
-Contributing and License:
+Source, Contributing and Licensing
+==================================
 
-This guide uses the CC-BY-SA license. Contributing is easy. Use the edit link on the top right 
-of this page and send me a pull request. I look forward to your contributions!
+This guide lives `here <https://github.com/amitsaha/fedora_scientific_guide>`__ and uses 
+the CC-BY-SA license. Contributing is easy. Use the edit link on the top right of the pages and 
+send me a pull request. I look forward to your contributions!
 
 Indices and tables
 ==================
