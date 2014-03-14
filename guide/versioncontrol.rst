@@ -6,7 +6,7 @@ Fedora Scientific includes several popular version control software.
 git
 ===
 
-`Pro Git <http://www.git-scm.com/book>` by Scott Chacon is a freely
+`Pro Git <http://www.git-scm.com/book>`__ by Scott Chacon is a freely
 available online book that should get you started with Git (in case you are
 not familiar with it) and also be a handy reference after you are
 familiar with the basics.
