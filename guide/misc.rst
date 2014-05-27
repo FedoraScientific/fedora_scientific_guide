@@ -14,7 +14,7 @@ more about its features, please visit the project's homepage.
 Document arrangement
 ====================
 
-`pdfshuffler <http://pdfshuffler.sourceforce.net>`__ - a tool for
+`pdfshuffler <http://pdfshuffler.sourceforge.net>`__ - a tool for
 rearranging and modifying PDF files is available.
 
 Screenshot taking software
