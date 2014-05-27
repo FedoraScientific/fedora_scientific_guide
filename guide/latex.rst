@@ -9,5 +9,5 @@ Environment. The LaTeX package, `beamer
 <http://www.ctan.org/pkg/beamer>`__ is also included to assist in
 creating presentations with LaTeX. 
 
-Utilities such as `bibtex2html <http://www.ctan.org/pkg/beamer>`__ is
-also included.
+Utilities such as `hevea <http://hevea.inria.fr/>`__ and `bibtex2html
+<http://www.ctan.org/pkg/beamer>`__ are also included.

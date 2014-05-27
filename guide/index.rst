@@ -26,7 +26,7 @@ Contents
    latex
    plotting
    versioncontrol
-   bibliographypdf
+   misc
    
 Source, Contributing and Licensing
 ==================================

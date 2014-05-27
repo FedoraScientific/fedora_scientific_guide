@@ -1,2 +1,0 @@
-Bibliography and PDF managers
------------------------------

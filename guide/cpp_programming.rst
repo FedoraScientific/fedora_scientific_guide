@@ -1,5 +1,5 @@
-C++ progrmming
---------------
+C++ programming
+---------------
 
 Fedora Scientific includes the ``g++`` C++ compiler. The manual for
 the GNU C++ library is available `here
