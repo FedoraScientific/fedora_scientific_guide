@@ -24,7 +24,7 @@ Contents
    python_programming
    R_programming
    latex
-   plotting
+   graphs_draw
    versioncontrol
    misc
    
