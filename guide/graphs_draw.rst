@@ -1,5 +1,5 @@
-Graphics and Plotting
----------------------
+Graphics, Plotting and Data Visualization
+-----------------------------------------
 
 gnuplot
 =======
@@ -41,3 +41,28 @@ dia
 diagrams and supports exporting to a number of other formats. A
 mailing list is available `here
 <https://mail.gnome.org/mailman/listinfo/dia-list>`__.
+
+GGobi
+=====
+
+`GGobi <http://www.ggobi.org/>`__  is a visualization program for
+exploring high-dimensional data. Various resources for learning GGobi
+are listed `here <http://www.ggobi.org/docs/>`__.
+
+A `mailing list <http://groups.google.com/group/ggobi>`__ is available
+for seeking help.
+
+Mayavi
+======
+
+`Mayavi <http://code.enthought.com/projects/mayavi/#Mayavi>`__ is a
+software for 3-D data visualization. Documentation for getting started
+with Mayavi is available `here
+<http://docs.enthought.com/mayavi/mayavi/>`__.
+
+Others
+======
+
+The `GNU image manipulation program <http://www.gimp.org/>`__ and
+`g3data <http://www.frantz.fi/software/g3data.php>`__ are other
+software available.

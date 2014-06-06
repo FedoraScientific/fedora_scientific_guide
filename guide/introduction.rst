@@ -32,7 +32,8 @@ Installation of Fedora Scientific is not different from installing any
 other Fedora spin. Here is a walk through video explaining a very
 basic installation of Fedora Scientific 20 in a virtual machine.
 
-.. todo:: Installation video tutorial
+.. todo::
+   Installation video tutorial
 
 Customisation
 ~~~~~~~~~~~~~

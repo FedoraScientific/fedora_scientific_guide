@@ -23,6 +23,7 @@ Contents
    cpp_programming
    python_programming
    R_programming
+   java_programming
    latex
    graphs_draw
    versioncontrol
