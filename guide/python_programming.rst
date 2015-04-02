@@ -44,6 +44,20 @@ The official documentation is `here
 The IPython mailing list is `here
 <http://mail.scipy.org/pipermail/ipython-dev/>`__.
 
+Pandas
+======
+
+pandas is a Python library mostly useful for data analysis.
+
+The `cookbook
+<http://pandas.pydata.org/pandas-docs/stable/tutorials.html#pandas-cookbook>`__
+is a good place to start and the `Lessons for New pandas Users
+<http://pandas.pydata.org/pandas-docs/stable/tutorials.html#lessons-for-new-pandas-users>`__
+look useful too.
+
+You can ask questions on `stackoverflow
+<http://stackoverflow.com/questions/tagged/pandas>`__.
+
 Plotting
 ========
 
@@ -96,5 +110,3 @@ Sage provides an unified interface to "`100 open source packages <http://www.sag
 The videos `here <http://www.sagemath.org/help-video.html>`__ may help you get an overview of what
 sage is and what it can do for you. The official documentation is `here <http://www.sagemath.org/help.html>`__
 and ways to get help are listed `here <http://www.sagemath.org/development.html#mailingList>`__. 
-
-
