@@ -9,8 +9,7 @@ Welcome to the Fedora Scientific 22 Guide
 These pages aim to help you learn more about using the software
 shipped with Fedora Scientific. These documentation should be only
 considered applicable for Fedora 22 and may not work exactly as
-mentioned on other Fedora releases. Please file a `issue
-<https://github.com/FedoraScientific/fedora_scientific_guide/issues`>__
+mentioned on other Fedora releases. Please file a `issue <https://github.com/FedoraScientific/fedora_scientific_guide/issues>`__
 if you find any error.
 
 Contents
