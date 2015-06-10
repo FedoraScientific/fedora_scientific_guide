@@ -3,13 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Fedora Scientific 21 Guide
+Welcome to the Fedora Scientific 22 Guide
 =========================================
 
 These pages aim to help you learn more about using the software
 shipped with Fedora Scientific. These documentation should be only
-considered applicable for Fedora 21 and may not work exactly as
-mentioned on other Fedora releases.
+considered applicable for Fedora 22 and may not work exactly as
+mentioned on other Fedora releases. Please file a `issue
+<https://github.com/FedoraScientific/fedora_scientific_guide/issues`>
+if you find any error.
 
 Contents
 ========
@@ -32,9 +34,11 @@ Contents
 Source, Contributing and Licensing
 ==================================
 
-This guide lives `here <https://github.com/amitsaha/fedora_scientific_guide>`__ and uses 
-the CC-BY-SA license. Contributing is easy. Use the edit link on the top right of the pages and 
-send me a pull request. I look forward to your contributions!
+This guide is `open source
+<https://github.com/FedoraScientific/fedora_scientific_guide/>`__ and
+uses the CC-BY-SA license. Contributing is easy. Use the edit link on
+the top right of the pages and  send me a pull request. I look forward
+to your contributions!
 
 Indices and tables
 ==================

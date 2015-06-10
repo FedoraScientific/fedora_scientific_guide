@@ -2,13 +2,13 @@ What is Fedora Scientific?
 --------------------------
 
 `Fedora Scientific
-<https://spins.fedoraproject.org/scientific-kde/>`__ is a a `Fedora
-<https://fedoraproject.org>`__ spin which is targeted towards new and
-existing Linux users using Linux for their scientific computing. Such
-users would include students and researchers whose work involves
-numerical experiments, preparing their results, writing research
-reports and presenting them. Fedora Scientific aims to be useful in
-all phases of the research pipeline. 
+<https://labs.fedoraproject.org/en/scientific/>`__ is part of `Fedora
+labs <https://labs.fedoraproject.org/>`__. It is targeted towards
+new and existing Linux users using Linux for their scientific
+computing. Such  users would include students and researchers whose
+work involves numerical experiments, preparing their results, writing
+research reports and presenting them. Fedora Scientific aims to be
+useful in all phases of the research pipeline.
 
 The advantage of using Fedora Scientific is that you do not have to
 install the packages which you always need every time you install
@@ -29,8 +29,7 @@ Installation
 ============
 
 Installation of Fedora Scientific is not different from installing any
-other Fedora spin. `Download
-<http://spins.fedoraproject.org/scientific-kde/>`__ the Fedora
+other Fedora spin. `Download <https://labs.fedoraproject.org/scientific/download/index.html>`__ the Fedora
 Scientific ISO and refer to the `Fedora install guide
 <http://docs.fedoraproject.org/en-US/Fedora/21/html/Installation_Guide/part-installing-fedora.html>`__
 for help with installation. 
