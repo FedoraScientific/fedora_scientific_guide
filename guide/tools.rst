@@ -23,6 +23,11 @@ also available. Other ways to get help are mentioned `here
 Scilab
 ======
 
+.. note::
+
+   scilab is not included in Fedora 23, you can however install it
+   using: ``dnf -y install scilab``.
+
 Scilab combines a high level programming language and a numerical
 computing environment. If you have prior experience with MATLAB and 
 are looking for something similar, `Scilab
@@ -30,7 +35,9 @@ are looking for something similar, `Scilab
 
 Links to the official documentation and tutorials are available `here
 <http://www.scilab.org/resources/documentation>`__. Ways to engage
-with the Scilab community are mentioned `here <http://www.scilab.org/resources/free_community_support>`__.
+with the Scilab community are mentioned `here
+<http://www.scilab.org/resources/free_community_support>`__.
+
 
 Maxima
 ======
