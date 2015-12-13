@@ -1,0 +1,85 @@
+ julia
+               _
+   _       _ _(_)_     |  A fresh approach to technical computing
+  (_)     | (_) (_)    |  Documentation: http://docs.julialang.org
+   _ _   _| |_  __ _   |  Type "?help" for help.
+  | | | | | | |/ _` |  |
+  | | |_| | | | (_| |  |  Version 0.4.1 (2015-11-08 10:33 UTC)
+ _/ |\__'_|_|_|\__'_|  |  
+|__/                   |  x86_64-redhat-linux
+
+julia> Pkg.add("IJulia")
+INFO: Initializing package repository /home/fedora/.julia/v0.4
+INFO: Cloning METADATA from git://github.com/JuliaLang/METADATA.jl
+INFO: Cloning cache of BinDeps from git://github.com/JuliaLang/BinDeps.jl.git
+INFO: Cloning cache of Compat from git://github.com/JuliaLang/Compat.jl.git
+INFO: Cloning cache of Conda from git://github.com/Luthaf/Conda.jl.git
+INFO: Cloning cache of IJulia from git://github.com/JuliaLang/IJulia.jl.git
+INFO: Cloning cache of JSON from git://github.com/JuliaLang/JSON.jl.git
+INFO: Cloning cache of Nettle from git://github.com/staticfloat/Nettle.jl.git
+INFO: Cloning cache of SHA from git://github.com/staticfloat/SHA.jl.git
+INFO: Cloning cache of URIParser from git://github.com/JuliaWeb/URIParser.jl.git
+INFO: Cloning cache of ZMQ from git://github.com/JuliaLang/ZMQ.jl.git
+INFO: Installing BinDeps v0.3.19
+INFO: Installing Compat v0.7.8
+INFO: Installing Conda v0.1.8
+INFO: Installing IJulia v1.1.8
+INFO: Installing JSON v0.5.0
+INFO: Installing Nettle v0.2.0
+INFO: Installing SHA v0.1.2
+INFO: Installing URIParser v0.1.1
+INFO: Installing ZMQ v0.3.1
+INFO: Building Nettle
+INFO: Building ZMQ
+INFO: Building IJulia
+INFO: Recompiling stale cache file /home/fedora/.julia/lib/v0.4/Conda.ji for module Conda.
+WARNING: Module BinDeps uuid did not match cache file
+===============================[ ERROR: IJulia ]================================
+
+LoadError: __precompile__(true) but require failed to create a precompiled cache file
+while loading /home/fedora/.julia/v0.4/IJulia/deps/build.jl, in expression starting on line 2
+
+================================================================================
+
+===========================================================================================================[ BUILD ERRORS ]===========================================================================================================
+
+WARNING: IJulia had build errors.
+
+ - packages with build errors remain installed in /home/fedora/.julia/v0.4
+ - build the package(s) and all dependencies with `Pkg.build("IJulia")`
+ - build a single package by running its `deps/build.jl` script
+
+======================================================================================================================================================================================================================================
+INFO: Package database updated
+
+julia> Pkg.update()
+INFO: Updating METADATA...
+INFO: Computing changes...
+INFO: No packages to install, update or remove
+
+julia> Pkg.add("IJulia")
+INFO: Nothing to be done
+
+julia> using IJulia
+INFO: Precompiling module IJulia...
+ERROR: LoadError: IJulia not properly installed. Please run Pkg.build("IJulia")
+ [inlined code] from none:2
+ in anonymous at no file:0
+while loading /home/fedora/.julia/v0.4/IJulia/src/IJulia.jl, in expression starting on line 33
+ERROR: Failed to precompile IJulia to /home/fedora/.julia/lib/v0.4/IJulia.ji
+ in compilecache at loading.jl:384
+
+julia> Pkg.build("IJulia")
+INFO: Building Nettle
+INFO: Building ZMQ
+INFO: Building IJulia
+INFO: Found Jupyter version 3.2.1: ipython
+Writing IJulia kernelspec to /home/fedora/.julia/v0.4/IJulia/deps/julia-0.4/kernel.json ...
+Installing julia kernelspec julia-0.4
+
+julia> using IJulia
+INFO: Precompiling module IJulia...
+INFO: Recompiling stale cache file /home/fedora/.julia/lib/v0.4/ZMQ.ji for module ZMQ.
+INFO: Recompiling stale cache file /home/fedora/.julia/lib/v0.4/Nettle.ji for module Nettle.
+
+julia> notebook()
