@@ -25,6 +25,7 @@ Contents
    python_programming
    R_programming
    java_programming
+   julia_programming
    latex
    graphs_draw
    versioncontrol
