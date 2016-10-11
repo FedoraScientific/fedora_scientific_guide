@@ -31,7 +31,7 @@ Installation
 Installation of Fedora Scientific is not different from installing any
 other Fedora spin. `Download <https://labs.fedoraproject.org/scientific/download/index.html>`__ the Fedora
 Scientific ISO and refer to the `Fedora install guide
-<http://docs.fedoraproject.org/en-US/Fedora/21/html/Installation_Guide/part-installing-fedora.html>`__
+<http://docs.fedoraproject.org/en-US/Fedora/25/html/Installation_Guide/part-installing-fedora.html>`__
 for help with installation. 
 
 Here is a walk through video explaining a very basic installation of
