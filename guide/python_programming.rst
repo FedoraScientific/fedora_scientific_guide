@@ -103,8 +103,20 @@ with complex networks. Simple use cases include learning and teaching graphs.
 The official documentation is `here <http://networkx.github.io/documentation.html>`__
 and the project's mailing list is `here <http://groups.google.com/group/networkx-discuss/>`__.
 
+.. note::
+
+   networkx is not included in Fedora 28, you can however install it
+   using: ``dnf -y install python*-networkx``.
+
+
 Sage
 ====
+
+.. note::
+
+   sagemath is not included in Fedora 28, you can however install it
+   using: ``dnf -y install sagemath``.
+
 
 Sage provides an unified interface to "`100 open source packages <http://www.sagemath.org/tour.html>`__".
 The videos `here <http://www.sagemath.org/help-video.html>`__ may help you get an overview of what
