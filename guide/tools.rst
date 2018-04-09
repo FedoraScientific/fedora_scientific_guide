@@ -25,7 +25,7 @@ Scilab
 
 .. note::
 
-   scilab is not included in Fedora 23, you can however install it
+   scilab is not included in Fedora 28, you can however install it
    using: ``dnf -y install scilab``.
 
 Scilab combines a high level programming language and a numerical
