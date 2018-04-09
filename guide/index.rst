@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Fedora Scientific 25 Guide
+Welcome to the Fedora Scientific 28 Guide
 =========================================
 
 These pages aim to help you learn more about using the software
 shipped with Fedora Scientific. These documentation should be only
-considered applicable for Fedora 25 and may not work exactly as
+considered applicable for Fedora 28 and may not work exactly as
 mentioned on other Fedora releases. Please file a `issue <https://github.com/FedoraScientific/fedora_scientific_guide/issues>`__
 if you find any error.
 
