@@ -12,6 +12,12 @@ which can be used to seek help on R.
 `rkward <http://sourceforge.net/apps/mediawiki/rkward/>`__ - a GUI for
 R is also installed.
 
+.. note::
+
+   rkward is not included in Fedora 28, you can however install it
+   using: ``dnf -y install rkward``.
+
+
 
 R development in Jupyter
 ========================
