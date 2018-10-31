@@ -27,12 +27,8 @@ presentations using Beamer.
 
 Installation
 ============
-
-Installation of Fedora Scientific is not different from installing any
-other Fedora spin. `Download <https://labs.fedoraproject.org/scientific/download/index.html>`__ the Fedora
-Scientific ISO and refer to the `Fedora install guide
-<http://docs.fedoraproject.org/en-US/Fedora/28/html/Installation_Guide/part-installing-fedora.html>`__
-for help with installation. 
+The Scientific lab comes in two variants. A Live Image with KDE and Vagrant box. Please refer
+to the `Download <https://labs.fedoraproject.org/scientific/download/index.html>`__  page.
 
 Here is a walk through video explaining a very basic installation of
 Fedora Scientific in a virtual machine.
